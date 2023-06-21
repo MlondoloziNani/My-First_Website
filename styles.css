@@ -1,0 +1,18 @@
+/* Set the background color of the entire HTML page */
+body {
+  background-color: lightgray;
+}
+
+/* Change the color of the text */
+body {
+  color: navy;
+}
+
+/* Style the h1 elements */
+h1 {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  color: darkblue;
+}
+
